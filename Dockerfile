@@ -1,3 +1,4 @@
+#© GitCodeX
 #  creates a layer from the base Docker image.
 FROM python:3.9.2-slim-buster
 
@@ -35,7 +36,7 @@ RUN sh -c 'echo "deb https://mkvtoolnix.download/debian/ buster main" >> /etc/ap
 RUN apt -qq update
 
 # http://bugs.python.org/issue19846
-# https://github.com/SpEcHiDe/PublicLeech/pull/97
+# https://github.com/GitHubsantu/PublicLeech/pull/97
 ENV LANG C.UTF-8
 
 # we don't have an interactive xTerm
