@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) PublicLeech Author(s)
+#© GitCodeX
 
 import asyncio
 from tobrot.helper_funcs.display_progress import humanbytes
