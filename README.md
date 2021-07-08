@@ -2,6 +2,15 @@
 
 A Torrent, youtube-dl Leecher, and Uploader!
 
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  </a>
+
+<a href="https://t.me/GitCodex">
+    <img src="https://github.com/GitHubsantu/PyrogramGenStr/blob/main/resources/madebycodex-badge_copy_250x56.png" width="250">
+  </a>
+
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [COPYING](./COPYING) for more details.
 
 ## installing
@@ -33,7 +42,7 @@ You can still install all the dependencies in your system [with ROOT permissions
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/SpEcHiDe/PublicLeech.git
+git clone https://github.com/GitHubsantu/PublicLeech.git
 cd PublicLeech
 python3 -m venv venv
 . ./venv/bin/activate
@@ -49,7 +58,7 @@ python3 -m tobrot
 
 * `APP_ID`
 * `API_HASH`: Get these two values from [my.telegram.org/apps](https://my.telegram.org/apps).
-  * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/UseTGXBot) to get the IDs.
+  * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/GitCodeX) to get the IDs.
 
 * `AUTH_CHANNEL`:
 Create a Super Group in Telegram, add `@GoogleIMGBot` to the group, and send /id in the chat, to get this value.
@@ -123,17 +132,7 @@ You can add multiple IDs seperated by space.
 
 * search for known issues, [here](https://t.me/c/1434259219/118) or in the [GitHub Issues](https://github.com/SpEcHiDe/PublicLeech/issues).
 
-* add issues / feature requests, [here](https://github.com/SpEcHiDe/PublicLeech/issues/new).
+* add issues / feature requests, [here](https://github.com/GitHubsantu/PublicLeech/issues/new).
 
 * the GitHub Issue Tracker is only for Issue / Feature Requests. For any support, please use the Telegram Group.
 
-## Credits, and Thanks to
-
-* [me](https://GitHub.com/SpEcHIDe/PublicLeech)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
-* [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
-* [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-* [rClone Team](https://github.com/rclone/rclone)
-* [gautamajay52](https://github.com/gautamajay52/TorrentLeech-Gdrive)
-* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
