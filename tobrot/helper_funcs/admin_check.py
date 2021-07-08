@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+#© GitCodeX
 
 async def AdminCheck(client, chat_id, user_id):
     SELF = await client.get_chat_member(
