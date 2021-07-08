@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K / Akshay C
+#© GitCodeX
 
 # the logging things
 import logging
