@@ -1,4 +1,4 @@
-"""ThumbNail utilities, © @AnyDLBot"""
+"""ThumbNail utilities, © @GitCodeX"""
 
 import os
 from PIL import Image
